@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Kaung Set Hien.
 - 👀 I’m interested in React.Js and Node.JS
 - 🌱 I’m currently learning Node,Express and MongoDB
-- 📫 How to reach me https://portfolio-js-weld.vercel.app/
+- 📫 How to reach me kaungsethein91@gmail.com
 - ✨ React Js Developer 
 
 <!---
