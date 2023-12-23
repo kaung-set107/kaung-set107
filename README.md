@@ -1,5 +1,5 @@
 
-![Alt Text](./images/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
+https://github.com/kaung-set107/images/blob/main/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif
 - 👋 Hi, I’m Kaung Set Hien.
 - 👀 I’m interested in React.Js and Node.JS
 - 🌱 I’m currently learning Node,Express and MongoDB
